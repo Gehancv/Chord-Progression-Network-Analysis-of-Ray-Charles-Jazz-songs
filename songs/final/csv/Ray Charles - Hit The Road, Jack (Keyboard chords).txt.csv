@@ -1,5 +1,5 @@
-Source;Target
-24;152
-152;123
-123;107
-107;24
+Source;Target;Type
+24;152;Directed
+152;123;Directed
+123;107;Directed
+107;24;Directed

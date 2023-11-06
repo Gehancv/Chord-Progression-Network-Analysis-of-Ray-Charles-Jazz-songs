@@ -1,8 +1,8 @@
-Source;Target
-24;24
-24;96
-96;24
-24;123
-123;107
-107;24
-96;123
+Source;Target;Type
+24;24;Directed
+24;96;Directed
+96;24;Directed
+24;123;Directed
+123;107;Directed
+107;24;Directed
+96;123;Directed
