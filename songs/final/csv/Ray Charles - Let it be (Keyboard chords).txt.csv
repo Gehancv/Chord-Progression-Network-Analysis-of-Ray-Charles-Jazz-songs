@@ -1,9 +1,0 @@
-Source;Target;Type
-50;152;Directed
-152;24;Directed
-24;123;Directed
-123;50;Directed
-152;123;Directed
-50;24;Directed
-24;152;Directed
-50;50;Directed
