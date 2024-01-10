@@ -14,4 +14,4 @@ e.	Are there any communities? Is there homophily? Is it possible to explain thos
 	
 In summary, these questions cover a range of topics related to the uniqueness of Ray Charles’s songs and network attributes such as communities, homophily, robustness, the prominence of high-weighted links, and the appearance of hubs. 
 
-<b> NOTE Please review the "final paper.docx" inside the reports folder to get a complete understanding of the project and the final conclusions we made. </b>
+<b> NOTE: Please review the "final paper.docx" inside the reports folder to get a complete understanding of the project and the final conclusions we made. </b>
