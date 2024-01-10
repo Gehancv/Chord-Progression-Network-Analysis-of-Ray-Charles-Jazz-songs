@@ -6,11 +6,11 @@ The inspiration behind the project was to analyze basic musical concepts like or
 
 Research Questions: 
 
-a.	Nodes and link attacks could represent failures in the instrument or the person playing it. Can the chord progression network show why some mistakes in songs go unnoticed? What is the robustness of the network?
-b.	Does Ray Charles have a unique music style compared to other artists?
-c.	In the structure, why do more important links (larger weights) appear? 
-d.	Does Ray Charles prefer chords used in his songs?
-e.	Are there any communities? Is there homophily? Is it possible to explain those communities using music theory?
+a.	Nodes and link attacks could represent failures in the instrument or the person playing it. Can the chord progression network show why some mistakes in songs go unnoticed? What is the robustness of the network? <br>
+b.	Does Ray Charles have a unique music style compared to other artists?  <br>
+c.	In the structure, why do more important links (larger weights) appear?  <br>
+d.	Does Ray Charles prefer chords used in his songs?  <br>
+e.	Are there any communities? Is there homophily? Is it possible to explain those communities using music theory?  <br>
 	
 In summary, these questions cover a range of topics related to the uniqueness of Ray Charles’s songs and network attributes such as communities, homophily, robustness, the prominence of high-weighted links, and the appearance of hubs. 
 
